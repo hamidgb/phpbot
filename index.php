@@ -1,4 +1,2 @@
 <?php
-echo "hello world";
-echo "<br/>";
-echo "hello hamid";
+echo "my name is hamid";
